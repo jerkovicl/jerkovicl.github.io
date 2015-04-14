@@ -79,6 +79,7 @@ title: Web Development Guidelines
 * [https://github.com/toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto ) 
 
 #### Kendo UI
-* [http://codylindley.github.io/the-kendo-ui-book/](http://codylindley.github.io/the-kendo-ui-book/) - by Telerik
+* [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - by codylindley & Telerik
+* [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/) - by codylindley & Telerik
 
 Compiled by ŠJ & LJ :fire:
