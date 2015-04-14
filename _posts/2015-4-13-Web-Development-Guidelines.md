@@ -59,8 +59,8 @@ title: Web Development Guidelines
 * [http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
 #### Chrome Dev Tools
-
-* [Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+* [Official documentation](https://developer.chrome.com/devtools) - by Google
+* [Cheatsheet](http://anti-code.com/devtools-cheatsheet/) - by Jared Williams
 * [Tips & Tricks](http://codepen.io/TheodoreVorillas/blog/chrome-devtools-tips-and-tricks) - by TheodoreVorillas
 * [Demos & new features in Chrome Beta/Canary versions](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) - by [addyosmani](https://twitter.com/addyosmani)
 * [Blackboxing 3rd party libraries](https://developer.chrome.com/devtools/docs/blackboxing) - by Google
