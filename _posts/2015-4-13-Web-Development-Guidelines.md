@@ -69,8 +69,8 @@ title: Web Development Guidelines
 
 * [Introduction to modern JS Toolboox](http://www.infoq.com/articles/modern-javascript-toolbox?utm_source=telerik&utm_medium=email)
 * [Build Automation](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - by [addyosmani](https://twitter.com/addyosmani)
-* [Bower](http://blog.teamtreehouse.com/getting-started-bower)
-* [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) by Andy Carter
+* [Bower](http://blog.teamtreehouse.com/getting-started-bower) - by [Treehouse](https://teamtreehouse.com/)
+* [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) - by Andy Carter
 
 #### AngularJS
 * [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
@@ -78,3 +78,5 @@ title: Web Development Guidelines
 
 #### Kendo UI
 * [http://codylindley.github.io/the-kendo-ui-book/](http://codylindley.github.io/the-kendo-ui-book/) - by Telerik
+
+Compiled by ŠJ & LJ :fire:
