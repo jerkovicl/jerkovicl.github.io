@@ -1,21 +1,28 @@
 ---
 layout: post
-title: Usefull Links
+title: Web Development Guidelines
 ---
+
+## General guidelines and resources
+
+* [https://developers.google.com/web/starter-kit/](https://developers.google.com/web/starter-kit/) - by Google
+* [https://developers.google.com/web/fundamentals/](https://developers.google.com/web/fundamentals/) - by Google
+* [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) - by Mozilla
 
 ## HTML / CSS
 
 * [http://cssguidelin.es/](http://cssguidelin.es/) - by [@csswizardry](https://twitter.com/csswizardry)
 * [http://codeguide.co/](http://codeguide.co/) - by [@mdo](https://twitter.com/mdo)
 * [http://wtfhtmlcss.com/](http://wtfhtmlcss.com/) - by [@mdo](https://twitter.com/mdo)
-* [https://developers.google.com/web/starter-kit/](https://developers.google.com/web/starter-kit/) - by Google
-* [https://developers.google.com/web/fundamentals/](https://developers.google.com/web/fundamentals/) - by Google
-* [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) - by Mozilla
 * [http://tympanus.net/codrops/css_reference/](http://tympanus.net/codrops/css_reference/) - CSS References
 
 #### ARIA roles
 [http://alistapart.com/column/wai-finding-with-aria-landmark-roles](http://alistapart.com/column/wai-finding-with-aria-landmark-roles)
 
+#### Preprocessors
+* [http://lesscss.org/](http://lesscss.org/) - LESS
+* [https://github.com/madebysource/lesshat/blob/master/README.md](https://github.com/madebysource/lesshat/blob/master/README.md) - LESSHat mixins documentation
+* [SASS REFERENCE](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) - Sass / SCSS
 
 #### Moj stil pisanja HTML-a / CSS-a -- BEM metodologija
 
