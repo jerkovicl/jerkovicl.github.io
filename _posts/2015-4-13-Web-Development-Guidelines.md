@@ -72,6 +72,7 @@ title: Web Development Guidelines
 * [Bower](http://blog.teamtreehouse.com/getting-started-bower) - by [Treehouse](https://teamtreehouse.com/)
 * [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) - by Andy Carter
 * [Brackets Extensions](http://www.johnpapa.net/my-recommended-brackets-extensions/) - by [John Papa](https://twitter.com/John_Papa)
+* [Gulp Starter kit](https://github.com/jerkovicl/gulp-starter-kit) - WIP
 
 #### AngularJS
 * [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
