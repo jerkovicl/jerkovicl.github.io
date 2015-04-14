@@ -58,6 +58,20 @@ title: Web Development Guidelines
 #### A Baseline for Front-End [JS] Developers: 2015
 * [http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
+#### Chrome Dev Tools
+
+* [Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+* [Tips & Tricks](http://codepen.io/TheodoreVorillas/blog/chrome-devtools-tips-and-tricks) - by TheodoreVorillas
+* [Demos & new features in Chrome Beta/Canary versions](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) - by [addyosmani](https://twitter.com/addyosmani)
+* [Blackboxing 3rd party libraries](https://developer.chrome.com/devtools/docs/blackboxing) - by Google
+
+#### Front-end Tooling Workflow (Gulp.js, linting etc..)
+
+* [Introduction to modern JS Toolboox](http://www.infoq.com/articles/modern-javascript-toolbox?utm_source=telerik&utm_medium=email)
+* [Build Automation](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - by [addyosmani](https://twitter.com/addyosmani)
+* [Bower](http://blog.teamtreehouse.com/getting-started-bower)
+* [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) by Andy Carter
+
 #### AngularJS
 * [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
 * [https://github.com/toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto ) 
