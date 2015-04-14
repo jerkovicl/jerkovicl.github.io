@@ -51,7 +51,7 @@ title: Web Development Guidelines
 ## JavaScript
 
 #### ES5 i ES6
-
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by [@addyosmani](https://twitter.com/addyosmani)
 * ES6 (latest) guidelines:  [https://github.com/airbnb/javascript/tree/es6](https://github.com/airbnb/javascript/tree/es6) - by Airbnb
 * ES5 guidelines: [https://github.com/airbnb/javascript/tree/es6/es5](https://github.com/airbnb/javascript/tree/es6/es5) - by Airbnb
 
