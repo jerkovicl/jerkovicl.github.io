@@ -5,24 +5,25 @@ title: Web Development Guidelines
 
 ## General guidelines and resources
 
-* [https://developers.google.com/web/starter-kit/](https://developers.google.com/web/starter-kit/) - by Google
-* [https://developers.google.com/web/fundamentals/](https://developers.google.com/web/fundamentals/) - by Google
-* [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) - by Mozilla
+* [Web Starter Kit](https://developers.google.com/web/starter-kit/) - by Google
+* [Web Fundamentals](https://developers.google.com/web/fundamentals/) - by Google
+* [Material design specification](http://www.google.com/design/spec/material-design/introduction.html) by Google  
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - by Mozilla
 
-## HTML / CSS
+## HTML / CSS guidelines
 
-* [http://cssguidelin.es/](http://cssguidelin.es/) - by [@csswizardry](https://twitter.com/csswizardry)
-* [http://codeguide.co/](http://codeguide.co/) - by [@mdo](https://twitter.com/mdo)
-* [http://wtfhtmlcss.com/](http://wtfhtmlcss.com/) - by [@mdo](https://twitter.com/mdo)
-* [http://tympanus.net/codrops/css_reference/](http://tympanus.net/codrops/css_reference/) - CSS References
+* [CSS Guidelines](http://cssguidelin.es/) - by [@csswizardry](https://twitter.com/csswizardry)
+* [Code Guide](http://codeguide.co/) - by [@mdo](https://twitter.com/mdo)
+* [WTF HTML CSS](http://wtfhtmlcss.com/) - by [@mdo](https://twitter.com/mdo)
+* [CSS References](http://tympanus.net/codrops/css_reference/) - Codrops
 
 #### ARIA roles
-[http://alistapart.com/column/wai-finding-with-aria-landmark-roles](http://alistapart.com/column/wai-finding-with-aria-landmark-roles)
+[WAI-finding with ARIA Landmark Roles](http://alistapart.com/column/wai-finding-with-aria-landmark-roles)
 
 #### Preprocessors
-* [http://lesscss.org/](http://lesscss.org/) - LESS
-* [https://github.com/madebysource/lesshat/blob/master/README.md](https://github.com/madebysource/lesshat/blob/master/README.md) - LESSHat mixins documentation
-* [SASS REFERENCE](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) - Sass / SCSS
+* [LESS.js documentation](http://lesscss.org/)
+* [LESSHat mixins documentation](https://github.com/madebysource/lesshat/blob/master/README.md) 
+* [Sass / SCSS documentaion](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
 #### Moj stil pisanja HTML-a / CSS-a -- BEM metodologija
 
@@ -48,15 +49,15 @@ title: Web Development Guidelines
 </nav>
 {% endhighlight %}
 
-## JavaScript
+## JavaScript guidelines
 
 #### ES5 i ES6
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by [@addyosmani](https://twitter.com/addyosmani)
-* ES6 (latest) guidelines:  [https://github.com/airbnb/javascript/tree/es6](https://github.com/airbnb/javascript/tree/es6) - by Airbnb
-* ES5 guidelines: [https://github.com/airbnb/javascript/tree/es6/es5](https://github.com/airbnb/javascript/tree/es6/es5) - by Airbnb
+* [ES6 (latest) guidelines](https://github.com/airbnb/javascript/tree/es6) - by Airbnb
+* [ES5 guidelines](https://github.com/airbnb/javascript/tree/es6/es5) - by Airbnb
 
 #### A Baseline for Front-End [JS] Developers: 2015
-* [http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+* [A Baseline for Front-End (JS) Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
 #### Chrome Dev Tools
 * [Official documentation](https://developer.chrome.com/devtools) - by Google
@@ -75,8 +76,8 @@ title: Web Development Guidelines
 * [Gulp Starter kit](https://github.com/jerkovicl/gulp-starter-kit) - WIP
 
 #### AngularJS
-* [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
-* [https://github.com/toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto ) 
+* [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
+* [AngularJS Styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto ) 
 
 #### Kendo UI
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - by codylindley & Telerik
