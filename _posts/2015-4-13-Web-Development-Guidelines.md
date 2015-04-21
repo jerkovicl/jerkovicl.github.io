@@ -74,10 +74,16 @@ title: Web Development Guidelines
 * [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) - by Andy Carter
 * [Brackets Extensions](http://www.johnpapa.net/my-recommended-brackets-extensions/) - by [@johnpapa](https://twitter.com/John_Papa)
 * [Gulp Starter kit](https://github.com/jerkovicl/gulp-starter-kit) - WIP
+* [Using RequireJS with Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/20/using-requirejs-with-visual-studio.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
+* [Customizing IntelliSense for RequireJS](https://msdn.microsoft.com/en-us/library/dn904583.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
+* [Using Grunt and Bower in Visual Studio 2015](http://www.asp.net/vnext/overview/aspnet-vnext/grunt-and-bower-in-visual-studio-2015) - by Mike Wasson
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
-* [AngularJS Styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto ) 
+* [AngularJS Styleguide](https://github.com/toddmotto/angularjs-styleguide) - by [@toddmotto]( https://twitter.com/toddmotto )
+* [Using AngularJS in Visual Studio 2013](http://blogs.msdn.com/b/visualstudio/archive/2015/02/05/using-angularjs-in-visual-studio-2013.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
+* [JavaScript IntelliSense for AngularJS in Visual Studio](https://github.com/jmbledsoe/angularjs-visualstudio-intellisense/) - by John Bledsoe
+* [Angular 2 and TypeScript in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
 
 #### Kendo UI
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - by codylindley & Telerik
