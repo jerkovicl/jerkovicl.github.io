@@ -66,7 +66,7 @@ title: Web Development Guidelines
 * [Demos & new features in Chrome Beta/Canary versions](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Blackboxing 3rd party libraries](https://developer.chrome.com/devtools/docs/blackboxing) - by Google
 
-#### Front-end Tooling Workflow (Gulp.js, linting etc..)
+#### Front-end Tooling Workflow (Gulp.js, Bower, npm, linting etc..)
 
 * [Introduction to modern JS Toolboox](http://www.infoq.com/articles/modern-javascript-toolbox?utm_source=telerik&utm_medium=email) - by David Haney
 * [Build Automation](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - by [@addyosmani](https://twitter.com/addyosmani)
