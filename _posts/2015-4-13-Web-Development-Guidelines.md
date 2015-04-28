@@ -72,6 +72,7 @@ title: Web Development Guidelines
 * [Build Automation](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Bower](http://blog.teamtreehouse.com/getting-started-bower) - by [Treehouse](https://teamtreehouse.com/)
 * [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) - by Andy Carter
+* [Project scaffolding with Yeoman](http://yeoman.io/blog/state-of-the-moustache-2015.html) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Brackets Extensions](http://www.johnpapa.net/my-recommended-brackets-extensions/) - by [@johnpapa](https://twitter.com/John_Papa)
 * [Gulp Starter kit](https://github.com/jerkovicl/gulp-starter-kit) - WIP
 * [Using RequireJS with Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/20/using-requirejs-with-visual-studio.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
