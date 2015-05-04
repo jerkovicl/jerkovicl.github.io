@@ -2,12 +2,12 @@
 layout: post
 permalink: /adding-javascript-intellisense-to-vs-code
 title: Adding Javascript Intellisense for projects in Visual Studio Code
-path: 2015-5-4-Adding-Javascript-Intellisense-To-VS-Code.md
+path: 2015-5-5-Adding-Javascript-Intellisense-To-VS-Code.md
 ---
 
 - Consolidating all typings definition for JS libs into one file:
 
-{% highlight javascript %}
+{% highlight powershell %}
 npm install tsd -g
 # cd to your project folder
 tsd query -r -o -a install angular jquery node --save
