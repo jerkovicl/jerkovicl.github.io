@@ -95,4 +95,7 @@ title: Web Development Guidelines
 * [NodeJS in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx)
 * [NodeJS Tools on GitHub](https://github.com/Microsoft/nodejstools)
 
+#### TypeScript
+* [Using TypeScript in Visual Studio Code](http://blogs.msdn.com/b/typescript/archive/2015/04/30/using-typescript-in-visual-studio-code.aspx)
+
 Compiled by ŠJ & LJ :fire:
