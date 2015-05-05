@@ -16,3 +16,4 @@ path: 2015-5-4-Microsoft-build-tool-services.md
 * [Rosalyn Analyzers & Code Fixers for C# and VB.NET](http://nr6pack.net/) - collection of refactorings and analyzers from the NRefactory open-source project packaged specifically for VS 2015.
 * [.NET Analyzers](https://github.com/dotnetanalyzers) - An organization for the development of analyzers (diagnostics, code fixes, and refactorings) using the .NET Compiler Platform
 * [Visual Studio Emulator for Android](http://blogs.msdn.com/b/visualstudioalm/archive/2015/04/29/visual-studio-emulator-for-android-in-vs2015-rc.aspx) - Visual Studio Emulator for Android in VS2015
+* [Visual Studio Network tool](http://blogs.msdn.com/b/visualstudio/archive/2015/05/04/introducing-visual-studio-s-network-tool.aspx) - a brand new tool to help you diagnose network related issues when building Windows apps
