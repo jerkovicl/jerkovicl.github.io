@@ -79,6 +79,7 @@ title: Web Development Guidelines
 * [Customizing IntelliSense for RequireJS](https://msdn.microsoft.com/en-us/library/dn904583.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
 * [Using Grunt and Bower in Visual Studio 2015](http://www.asp.net/vnext/overview/aspnet-vnext/grunt-and-bower-in-visual-studio-2015) - by Mike Wasson
 * [JavaScript Web Tools with Visual Studio 2015 and ASP.NET 5](http://www.microsoft.com/en-us/download/details.aspx?id=46417&CR_CC=200619609) - by Microsoft
+* [Building Hosted Web Apps with ManifoldJS](http://www.thishereweb.com/manifoldjs-building-simple-hosted-web-apps/) - by Microsoft
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
