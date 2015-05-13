@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-- **Since there is no official documentation, here is the proper setup to enable Microsoft Application Insights for Javascript/Cordova apps and websites:**
+**Since there is no official documentation, here is the proper setup to enable Microsoft Application Insights for Javascript/Cordova apps and websites:**
 
 #### 1. In the Azure portal, create a new Application Insights resource:
 
