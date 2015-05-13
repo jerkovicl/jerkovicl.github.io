@@ -19,7 +19,7 @@ published: true
 
 ![Quick Start](https://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/20150508050839/02-monitor-web-page.png)
 
-#### 3. Insert the script snippet just before the </head> tag of every page you want to track:
+#### 3. Insert the script snippet just before the <code></head></code> tag of every page you want to track:
 
 - In an ASP.NET MVC project, you'd put it in View\Shared_Layout.cshtml
 
