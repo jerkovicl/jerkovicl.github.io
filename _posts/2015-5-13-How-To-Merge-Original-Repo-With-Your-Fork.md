@@ -3,9 +3,13 @@ layout: post
 permalink: /How-To-Merge-Original-Repo-With-Your-Fork
 title: How to merge upstream/original repository with your forked repository
 path: 2015-5-13-How-To-Merge-Original-Repo-With-Your-Fork.md
+tags:
+- jekyll
+- git
+published: true
 ---
 
-1. Add remote url as upstream
+## 1. Add remote url as upstream
 
 {% highlight bash %}
 $ git remote add upstream https://github.com/barryclark/jekyll-now.git
@@ -17,14 +21,14 @@ $ git remote add upstream https://github.com/barryclark/jekyll-now.git
 $ git remote -v
 {% endhighlight %}
 
-2. Fetch upstream's changes
+## 2. Fetch upstream's changes
 
 {% highlight bash %}
 $ git fetch upstream
 {% endhighlight %}
 
 
-3. Merge upstream
+## 3. Merge upstream
 
  - If there's any change, merge it to your repository.
 
@@ -34,7 +38,7 @@ $ git merge upstream/master
 
  - When you encounter conflicts, edit those files personally and add/commit them.
 
-4. Push to Github
+## 4. Push to Github
 
 {% highlight bash %}
 $ git push origin master
