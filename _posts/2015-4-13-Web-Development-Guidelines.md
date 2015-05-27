@@ -81,6 +81,7 @@ title: Web Development Guidelines
 * [JavaScript Web Tools with Visual Studio 2015 and ASP.NET 5](http://www.microsoft.com/en-us/download/details.aspx?id=46417&CR_CC=200619609) - by Microsoft
 * [Understanding the Manifest for Web App](http://www.thishereweb.com/understanding-the-manifest-for-web-app/) - by Microsoft
 * [Building Hosted Web Apps with ManifoldJS](http://www.thishereweb.com/manifoldjs-building-simple-hosted-web-apps/) - by Microsoft
+* [Visual Studio Tips & Tricks](http://blogs.msdn.com/b/benwilli/archive/2015/04/07/back-to-basics-visual-studio-tips.aspx) - by BenWilli
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
