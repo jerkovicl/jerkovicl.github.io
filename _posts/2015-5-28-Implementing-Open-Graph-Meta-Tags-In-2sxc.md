@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /implementing-open-graph-meta-tags-in-2sxc
-title: Implementing Open Graph meta tags for 2sxc apps
+title: Coding Open Graph meta tags for 2sxc apps
 path: 2015-5-28-Implementing-Open-Graph-Meta-Tags-In-2sxc.md
 tags:
 - opengraph
