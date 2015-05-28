@@ -9,6 +9,8 @@ tags:
 published: true
 ---
 
+* Update 28.05.2015 [New pricing change from June 1](http://azure.microsoft.com/blog/2015/05/27/application-insights-pricing-effective-june-1/)
+* 
 **Since there is no official documentation, here is the proper setup to enable Microsoft Application Insights for Javascript/Cordova apps and websites:**
 
 #### 1. In the Azure portal, create a new Application Insights resource:
