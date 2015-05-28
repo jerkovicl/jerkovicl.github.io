@@ -17,10 +17,12 @@ Every yacht had a corresponding detail page and information about yacht (name, m
 Whole website was implemented using DotNetNuke and 2SexyContent module for DNN.
 
 Example code:
+{% highlight html %}
+@using System.Web.UI.HtmlControls;
+{% endhighlight %}
 
 {% highlight C# %}
 
-@using System.Web.UI.HtmlControls;
 @{
   Page page = HttpContext.Current.Handler as Page;
   DotNetNuke.Framework.CDefault tp = (DotNetNuke.Framework.CDefault)page;
