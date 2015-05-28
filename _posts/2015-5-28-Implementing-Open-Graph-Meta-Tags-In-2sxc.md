@@ -141,4 +141,4 @@ Example code:
 {% endhighlight %}
 
 Facebook shared post example:
-![Facebook](https://onedrive.live.com/?cid=56322c2c3d2bd626&id=56322c2c3d2bd626%216105&v=3&ithint=photo,jpg&authkey=!ABzYiLSA56AUptk)
+![Facebook](({{ site.baseurl }}/images/FacebookShareExample.jpg "Facebook"))
