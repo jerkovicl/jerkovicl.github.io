@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /microsoft-application-insights-js-api.md
+permalink: /microsoft-application-insights-js-api
 title: Microsoft Application Insights JS API
 path: 2015-5-13-Microsoft-Application-Insights-JS-API.md
 tags:
