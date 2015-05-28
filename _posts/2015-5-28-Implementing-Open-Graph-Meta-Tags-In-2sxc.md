@@ -11,10 +11,10 @@ tags:
 published: true
 ---
 
-For one of the projects i was working on i had to figure out a way to create Open Graph meta tags.
-Website i was working on is [Croatia Boat Charter](http://croatiaboatcharter.com/), it is a website for chater agency Plavetnilo d.o.o, their primary service is renting yachts.
-Every yacht had a corresponding detail page and information about yacht (name, model, description etc..) had to be included inside those meta tags.
-Whole website was implemented using DotNetNuke and 2SexyContent module for DNN.
+- For one of the projects i was working on i had to figure out a way to create Open Graph meta tags.
+- Website i was working on is [Croatia Boat Charter](http://croatiaboatcharter.com/), it is a website for chater agency Plavetnilo d.o.o, their primary service is renting yachts.
+ - Every yacht had a corresponding detail page and information about yacht (name, model, description etc..) had to be included inside those meta tags.
+- Whole website was implemented using DotNetNuke and 2SexyContent module for DNN.
 
 Example code:
 
