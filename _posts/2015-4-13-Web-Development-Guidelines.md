@@ -99,6 +99,7 @@ title: Web Development Guidelines
 * [NodeJS Tools on GitHub](https://github.com/Microsoft/nodejstools)
 
 #### TypeScript
+* [Getting Started with TypeScript](http://blog.teamtreehouse.com/getting-started-typescript?utm_source=telerik&utm_medium=email)
 * [Using TypeScript in Visual Studio Code](http://blogs.msdn.com/b/typescript/archive/2015/04/30/using-typescript-in-visual-studio-code.aspx)
 * [The repository for high quality TypeScript type definitions](http://definitelytyped.org/)
 
