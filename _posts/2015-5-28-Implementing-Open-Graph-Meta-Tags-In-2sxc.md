@@ -141,4 +141,4 @@ Example code:
 {% endhighlight %}
 
 Facebook shared post example:
-![Facebook](({{ site.baseurl }}/images/FacebookShareExample.jpg "Facebook"))
+![Facebook]({{ site.baseurl }}/images/FacebookShareExample.jpg "Facebook")
