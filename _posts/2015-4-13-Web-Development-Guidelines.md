@@ -85,6 +85,7 @@ title: Web Development Guidelines
 * [Building Hosted Web Apps with ManifoldJS](http://www.thishereweb.com/manifoldjs-building-simple-hosted-web-apps/) - by Microsoft
 * [Visual Studio Tips & Tricks](http://blogs.msdn.com/b/benwilli/archive/2015/04/07/back-to-basics-visual-studio-tips.aspx) - by BenWilli
 * [Microsoft IE Developer Tools](http://dev.modern.ie/tools/) - by Microsoft
+* [Browser Hacks](http://browserhacks.com/)
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
