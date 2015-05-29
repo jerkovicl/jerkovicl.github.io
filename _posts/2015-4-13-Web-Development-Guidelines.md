@@ -75,6 +75,7 @@ title: Web Development Guidelines
 * [Project scaffolding with Yeoman](http://yeoman.io/blog/state-of-the-moustache-2015.html) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Brackets Extensions](http://www.johnpapa.net/my-recommended-brackets-extensions/) - by [@johnpapa](https://twitter.com/John_Papa)
 * [Gulp Starter kit](https://github.com/jerkovicl/gulp-starter-kit) - WIP
+* [Using WebPack as Module Loader](http://developer.telerik.com/featured/webpack-for-visual-studio-developers/) - by [Burke Holland](http://twitter.com/burkeholland)
 * [Using RequireJS with Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/20/using-requirejs-with-visual-studio.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
 * [Customizing IntelliSense for RequireJS](https://msdn.microsoft.com/en-us/library/dn904583.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
 * [Using Grunt and Bower in Visual Studio 2015](http://www.asp.net/vnext/overview/aspnet-vnext/grunt-and-bower-in-visual-studio-2015) - by Mike Wasson
