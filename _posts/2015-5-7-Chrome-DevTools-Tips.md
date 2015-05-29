@@ -19,6 +19,6 @@ published: true
 - **5 tricks to use in the Console Panel**
 ![4](https://gallery.mailchimp.com/2acb3bbbd6a2455edb2e65494/images/37ca7eff-c50c-4661-9f05-324833250c57.gif)
 
-- **Preview JavaScript values inline while debugging**
-  -- Go to DevTools settings (the cog wheel).
-  -- Check General > Sources > Display variable values inline while debugging.
+- **Preview JavaScript values inline while debugging**  
+  - Go to DevTools settings (the cog wheel).
+  - Check General > Sources > Display variable values inline while debugging.
