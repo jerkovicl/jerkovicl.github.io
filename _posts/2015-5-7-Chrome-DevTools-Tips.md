@@ -33,7 +33,7 @@ published: true
 
 ---
 
-- **Select and execute a block of code in the Sources Panel**  
-  - While paused at breakpoint use the shortcut Ctrl + Shift + E to run a block of highlighted code in the Sources Panel.
+- **Select and execute a block of code in the Sources Panel**    
+  - While paused at breakpoint use the shortcut Ctrl + Shift + E to run a block of highlighted code in the Sources Panel.  
 ![5](https://umaar.com/assets/images/dev-tips/run-highlighted-code-block.gif)
 
