@@ -108,4 +108,7 @@ title: Web Development Guidelines
 * [Using TypeScript in Visual Studio Code](http://blogs.msdn.com/b/typescript/archive/2015/04/30/using-typescript-in-visual-studio-code.aspx)
 * [The repository for high quality TypeScript type definitions](http://definitelytyped.org/)
 
+#### 2SexyContent
+* [2sxc Snippets & Tricks](https://gist.github.com/jerkovicl/7bc090685103eab9e175)
+
 Compiled by ŠJ & LJ :fire:
