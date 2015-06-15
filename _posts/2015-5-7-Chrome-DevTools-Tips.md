@@ -37,3 +37,9 @@ published: true
   - While paused at breakpoint use the shortcut Ctrl + Shift + E to run a block of highlighted code in the Sources Panel.  
 ![5](https://umaar.com/assets/images/dev-tips/run-highlighted-code-block.gif)
 
+- **GOTO a line number with a specified column using the format :linenumber:columnnumber**
+
+  - Hit CMD + O (Ctrl + 0 on Windows) from the Sources Panel with an open file
+  - Enter :5:9
+  - Notice you are taken to line 5, column 9!
+
