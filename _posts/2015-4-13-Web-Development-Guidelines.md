@@ -56,6 +56,7 @@ title: Web Development Guidelines
 * [ES6 (latest) guidelines](https://github.com/airbnb/javascript/tree/es6) - by Airbnb
 * [ES5 guidelines](https://github.com/airbnb/javascript/tree/es6/es5) - by Airbnb
 * [Native JS Functions, Helpers & Plugins](http://plainjs.com/javascript/?utm_source=javascriptweekly&utm_medium=email) - by plainJS
+* [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) - by Mozilla
 
 #### A Baseline for Front-End [JS] Developers: 2015
 * [A Baseline for Front-End (JS) Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
