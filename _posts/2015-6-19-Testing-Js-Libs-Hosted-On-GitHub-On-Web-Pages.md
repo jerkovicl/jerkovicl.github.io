@@ -18,4 +18,4 @@ For that purposes you can inject scripts using this approach:
 - Go to website [RawGit](https://rawgit.com/) and paste url there
 - For dev/testing structure url like this __https://rawgit.com/user/repo/branch/file__ and for production like this __https://cdn.rawgit.com/user/repo/tag/file__
 - Open Firefox and bring the Developer Toolbar with __Shift+F2__ keyboard shortcut
-- Type {% highlight javascript %}inject https://rawgit.com/username/repo/branch/folder/tota11y.min.js{% endhighlight %}
+- Type {% highlight javascript %}inject https://rawgit.com/username/repo/branch/folder/file.min.js{% endhighlight %}
