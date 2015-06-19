@@ -112,4 +112,7 @@ title: Web Development Guidelines
 #### 2SexyContent
 * [2sxc Snippets & Tricks](https://gist.github.com/jerkovicl/7bc090685103eab9e175)
 
+#### Git
+* [Learn Git](http://schacon.github.io/gitbook/index.html)
+
 Compiled by ŠJ & LJ :fire:
