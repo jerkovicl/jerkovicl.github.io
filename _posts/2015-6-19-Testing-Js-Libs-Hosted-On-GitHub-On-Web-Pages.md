@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-Sometimes you just need to use some scripts for testing or making some demos.
+Sometimes you just need to use some scripts for testing or making some demos.  
 For that purposes you can inject scripts using this approach:
 
 - Find the wanted script on GitHub and copy its url
