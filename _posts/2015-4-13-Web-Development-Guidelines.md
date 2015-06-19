@@ -114,5 +114,6 @@ title: Web Development Guidelines
 
 #### Git
 * [Learn Git](http://schacon.github.io/gitbook/index.html)
+* [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 Compiled by ŠJ & LJ :fire:
