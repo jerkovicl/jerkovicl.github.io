@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /testing-js-libs-hosted-on-github-on-web-pages
-title: Quickly testing JavaScript libraries hosted on GitHub on live web pages
+title: Testing JS libraries hosted on GitHub on web pages
 path: 2015-6-19-Testing-Js-Libs-Hosted-On-GitHub-On-Web-Pages.md
 tags:
 - github
