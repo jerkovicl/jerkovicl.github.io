@@ -67,6 +67,7 @@ title: Web Development Guidelines
 * [Tips & Tricks](http://codepen.io/TheodoreVorillas/blog/chrome-devtools-tips-and-tricks) - by TheodoreVorillas
 * [Demos & new features in Chrome Beta/Canary versions](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Blackboxing 3rd party libraries](https://developer.chrome.com/devtools/docs/blackboxing) - by Google
+* [DevTools Tips](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8) - by Google
 
 #### Front-end Tooling Workflow (Gulp.js, Bower, npm, linting etc..)
 
