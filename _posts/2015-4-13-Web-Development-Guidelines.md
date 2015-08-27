@@ -73,6 +73,7 @@ title: Web Development Guidelines
 #### Front-end Tooling Workflow (Gulp.js, Bower, npm, linting etc..)
 
 * [Introduction to modern JS Toolboox](http://www.infoq.com/articles/modern-javascript-toolbox?utm_source=telerik&utm_medium=email) - by David Haney
+* [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) - by Cody Lindley
 * [Build Automation](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - by [@addyosmani](https://twitter.com/addyosmani)
 * [Bower](http://blog.teamtreehouse.com/getting-started-bower) - by [Treehouse](https://teamtreehouse.com/)
 * [Gulp](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components) - by Andy Carter
