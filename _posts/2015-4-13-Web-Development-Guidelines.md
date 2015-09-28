@@ -89,6 +89,7 @@ title: Web Development Guidelines
 * [Understanding the Manifest for Web App](http://www.thishereweb.com/understanding-the-manifest-for-web-app/) - by Microsoft
 * [Building Hosted Web Apps with ManifoldJS](http://www.thishereweb.com/manifoldjs-building-simple-hosted-web-apps/) - by Microsoft
 * [Visual Studio Tips & Tricks](http://blogs.msdn.com/b/benwilli/archive/2015/04/07/back-to-basics-visual-studio-tips.aspx) - by BenWilli
+* [Visual Studio 2015 Shortcuts](http://visualstudioshortcuts.com/2015/)
 * [Introduction to Visual Studio Debugging](http://blogs.msdn.com/b/visualstudio/archive/2015/08/11/introduction-to-debugging.aspx) - by Microsoft
 * [Microsoft IE Developer Tools](http://dev.modern.ie/tools/) - by Microsoft
 * [Browser Specific CSS and JavaScript Hacks](http://browserhacks.com/) - by Hugo Giraudel, Tim Pietrusky and Fabrice Weinberg
