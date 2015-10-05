@@ -58,6 +58,7 @@ title: Web Development Guidelines
 * [Native JS Functions, Helpers & Plugins](http://plainjs.com/javascript/?utm_source=javascriptweekly&utm_medium=email) - by plainJS
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) - by Mozilla
 * [ES6 Equivalents in ES5](https://github.com/addyosmani/es6-equivalents-in-es5) - by [@addyosmani](https://twitter.com/addyosmani)
+* [ES6 Tools](https://github.com/addyosmani/es6-tools) - by [@addyosmani](https://twitter.com/addyosmani)
 * [JS Promises Playground](http://bevacqua.github.io/promisees) - by bevacqua
 
 #### A Baseline for Front-End [JS] Developers: 2015
