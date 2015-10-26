@@ -108,6 +108,9 @@ title: Web Development Guidelines
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - by codylindley & Telerik
 * [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/) - by codylindley & Telerik
 
+#### Ionic
+* [Ionic + AngularJS Yeoman Generator](https://github.com/mwaylabs/generator-m-ionic) - by mwaylabs
+
 #### NodeJS
 * [NodeJS in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx)
 * [NodeJS Tools on GitHub](https://github.com/Microsoft/nodejstools)
