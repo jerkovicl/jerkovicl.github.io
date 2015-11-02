@@ -19,3 +19,4 @@ path: 2015-5-4-Microsoft-build-tool-services.md
 * [Visual Studio Network tool](http://blogs.msdn.com/b/visualstudio/archive/2015/05/04/introducing-visual-studio-s-network-tool.aspx) - a brand new tool to help you diagnose network related issues when building Windows apps
 * [Fiddler with VS Android Emulator](http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/06/using-fiddler-to-monitor-network-traffic-from-the-vs-emulator-for-android.aspx) - using Fiddler to monitor network traffic from the VS Emulator for Android
 * [Windows App Studio Beta for Windows 10](http://blogs.windows.com/buildingapps/2015/05/26/windows-app-studio-beta-for-windows-10-insider-preview) - Windows App Studio Beta is a free online app creation tool that gives everyone the ability to create an app for Windows 10
+* [Visual Studio Tools for Apache Cordova](http://taco.visualstudio.com/en-us/docs/get-started-vs-tools-apache-cordova/)
