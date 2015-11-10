@@ -9,6 +9,7 @@ title: Web Development Guidelines
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/) - by Google
 * [Material design specification](http://www.google.com/design/spec/material-design/introduction.html) by Google  
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - by Mozilla
+* [Frontend Handbook](http://www.frontendhandbook.com/index.html) - by Cody Lindley
 
 ## HTML / CSS guidelines
 
