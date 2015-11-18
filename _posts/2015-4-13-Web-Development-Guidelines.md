@@ -130,13 +130,13 @@ title: Web Development Guidelines
 #### 2SexyContent
 * [2sxc Snippets & Tricks](https://gist.github.com/jerkovicl/7bc090685103eab9e175)
 
-#### Git
+## Git
 * [Learn Git](http://schacon.github.io/gitbook/index.html)
 * [Video Tutorials](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Coding in Windows - Setting Up Git & Cmder](http://www.awmoore.com/2015/01/14/coding-in-windows-part-1/)
 
-#### Docker
+## Docker
 * [Docker Tools for Visual Studio](https://github.com/Microsoft/DockerToolsDocs) - by Microsoft
 
 Compiled by ŠJ & LJ :fire:
