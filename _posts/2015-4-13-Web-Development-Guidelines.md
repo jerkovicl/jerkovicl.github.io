@@ -136,4 +136,7 @@ title: Web Development Guidelines
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Coding in Windows - Setting Up Git & Cmder](http://www.awmoore.com/2015/01/14/coding-in-windows-part-1/)
 
+#### Docker
+* [Docker Tools for Visual Studio](https://github.com/Microsoft/DockerToolsDocs) - by Microsoft
+
 Compiled by ŠJ & LJ :fire:
