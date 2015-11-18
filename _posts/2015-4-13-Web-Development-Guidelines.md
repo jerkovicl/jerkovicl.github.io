@@ -97,6 +97,7 @@ title: Web Development Guidelines
 * [Microsoft IE Developer Tools](http://dev.modern.ie/tools/) - by Microsoft
 * [Browser Specific CSS and JavaScript Hacks](http://browserhacks.com/) - by Hugo Giraudel, Tim Pietrusky and Fabrice Weinberg
 * [Tools for Apache Cordova](http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx) - by Microsoft
+* [Tools for Apache Cordova CLI Website](http://taco.tools/) - by Microsoft
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
