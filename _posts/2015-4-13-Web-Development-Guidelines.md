@@ -96,8 +96,12 @@ title: Web Development Guidelines
 * [Introduction to Visual Studio Debugging](http://blogs.msdn.com/b/visualstudio/archive/2015/08/11/introduction-to-debugging.aspx) - by Microsoft
 * [Microsoft IE Developer Tools](http://dev.modern.ie/tools/) - by Microsoft
 * [Browser Specific CSS and JavaScript Hacks](http://browserhacks.com/) - by Hugo Giraudel, Tim Pietrusky and Fabrice Weinberg
+
+#### Cordova
 * [Tools for Apache Cordova](http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx) - by Microsoft
 * [Tools for Apache Cordova CLI Website](http://taco.tools/) - by Microsoft
+* [Cordova CodePush plugin](http://microsoft.github.io/code-push/) - by Microsoft
+* [Visual Studio Emulator for Android](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) - by Microsoft
 
 #### AngularJS
 * [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - by [@johnpapa](https://twitter.com/john_papa)
