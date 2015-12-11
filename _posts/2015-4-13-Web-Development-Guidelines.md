@@ -96,6 +96,7 @@ title: Web Development Guidelines
 * [Introduction to Visual Studio Debugging](http://blogs.msdn.com/b/visualstudio/archive/2015/08/11/introduction-to-debugging.aspx) - by Microsoft
 * [Microsoft IE Developer Tools](http://dev.modern.ie/tools/) - by Microsoft
 * [Browser Specific CSS and JavaScript Hacks](http://browserhacks.com/) - by Hugo Giraudel, Tim Pietrusky and Fabrice Weinberg
+* [Must See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.2dxeg7gyc)
 
 #### Cordova
 * [Tools for Apache Cordova](http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx) - by Microsoft
