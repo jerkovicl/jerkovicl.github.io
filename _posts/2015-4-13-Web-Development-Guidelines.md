@@ -139,6 +139,7 @@ title: Web Development Guidelines
 ## Git
 * [Official GitHub Training](https://training.github.com/kit/) - by GitHub
 * [Learn Git](http://schacon.github.io/gitbook/index.html)
+* [Interactive Git Tutorial](http://gitimmersion.com/)
 * [Video Tutorials](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Coding in Windows - Setting Up Git & Cmder](http://www.awmoore.com/2015/01/14/coding-in-windows-part-1/)
