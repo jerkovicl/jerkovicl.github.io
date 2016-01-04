@@ -57,6 +57,7 @@ title: Web Development Guidelines
 * [ES6 (latest) guidelines](https://github.com/airbnb/javascript/tree/es6) - by Airbnb
 * [ES5 guidelines](https://github.com/airbnb/javascript/tree/es6/es5) - by Airbnb
 * [Native JS Functions, Helpers & Plugins](http://plainjs.com/javascript/?utm_source=javascriptweekly&utm_medium=email) - by plainJS
+* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) - by Mozilla
 * [ES6 Equivalents in ES5](https://github.com/addyosmani/es6-equivalents-in-es5) - by [@addyosmani](https://twitter.com/addyosmani)
 * [ES6 Tools](https://github.com/addyosmani/es6-tools) - by [@addyosmani](https://twitter.com/addyosmani)
