@@ -63,6 +63,7 @@ title: Web Development Guidelines
 * [ES6 Tools](https://github.com/addyosmani/es6-tools) - by [@addyosmani](https://twitter.com/addyosmani)
 * [ES6 Tooling Tips](https://developers.google.com/web/shows/ttt/series-2/es2015?utm_source=feed&utm_medium=feed&utm_campaign=shows_ttt_feed) - by [@addyosmani](https://twitter.com/addyosmani)
 * [JS Promises Playground](http://bevacqua.github.io/promisees) - by bevacqua
+* [You Don't Need Jquery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 #### A Baseline for Front-End [JS] Developers: 2015
 * [A Baseline for Front-End (JS) Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
