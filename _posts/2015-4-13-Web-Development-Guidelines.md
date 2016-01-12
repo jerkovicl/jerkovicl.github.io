@@ -151,4 +151,7 @@ title: Web Development Guidelines
 ## Docker
 * [Docker Tools for Visual Studio](https://github.com/Microsoft/DockerToolsDocs) - by Microsoft
 
+## EntityFramework
+* [Entity Framework Performance and What You Can Do About It](https://www.simple-talk.com/dotnet/.net-tools/entity-framework-performance-and-what-you-can-do-about-it/)
+
 Compiled by ŠJ & LJ :fire:
