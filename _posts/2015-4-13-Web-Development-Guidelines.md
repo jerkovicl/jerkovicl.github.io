@@ -115,6 +115,7 @@ title: Web Development Guidelines
 * [JavaScript IntelliSense for AngularJS in Visual Studio](https://github.com/jmbledsoe/angularjs-visualstudio-intellisense/) - by John Bledsoe
 * [Angular 2 and TypeScript in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx) - by [@JMatthiesen](https://twitter.com/JMatthiesen)
 * [Creating Line of Business applications using DNN and AngularJs](http://blog.webvoudig.nl/AppDevBlog/Post/753/Creating-Line-of-Business-applications-using-DNN-and-AngularJs)
+* [Official Angular2 Style Guide](https://angular.io/styleguide?utm_source=javascriptweekly&utm_medium=email)
 
 #### Kendo UI
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - by codylindley & Telerik
