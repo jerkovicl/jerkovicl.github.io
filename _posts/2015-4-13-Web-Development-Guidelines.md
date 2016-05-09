@@ -123,6 +123,7 @@ title: Web Development Guidelines
 
 #### Ionic
 * [Ionic + AngularJS Yeoman Generator](https://github.com/mwaylabs/generator-m-ionic) - by mwaylabs
+* [Definitive 10,000 Word Guide to Ionic](http://tutorials.pluralsight.com/front-end-javascript/ionic-framework-a-definitive-10-000-word-guide?utm_source=javascriptweekly&utm_medium=email)
 
 #### NodeJS
 * [NodeJS in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx)
