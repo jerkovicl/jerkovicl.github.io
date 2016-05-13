@@ -139,6 +139,7 @@ title: Web Development Guidelines
 
 #### React
 * [React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) - by Khan Academy
+* [React Learning](http://www.reactjsprogram.com/)
 
 #### Electron
 * [Electron Quick Start](http://electron.atom.io/docs/tutorial/quick-start/)
