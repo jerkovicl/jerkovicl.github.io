@@ -11,6 +11,7 @@ title: Web Development Guidelines
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - by Mozilla
 * [Frontend Handbook](http://www.frontendhandbook.com/index.html) - by Cody Lindley
 * [JavaScript Jargon](http://jargon.js.org/)
+* [Free Programming Books](https://github.com/vhf/free-programming-books)
 
 ## HTML / CSS guidelines
 
