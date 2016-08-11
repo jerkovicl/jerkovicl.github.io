@@ -64,6 +64,7 @@ title: Web Development Guidelines
 * [ES6 Equivalents in ES5](https://github.com/addyosmani/es6-equivalents-in-es5) - by [@addyosmani](https://twitter.com/addyosmani)
 * [ES6 Tools](https://github.com/addyosmani/es6-tools) - by [@addyosmani](https://twitter.com/addyosmani)
 * [ES6 Tooling Tips](https://developers.google.com/web/shows/ttt/series-2/es2015?utm_source=feed&utm_medium=feed&utm_campaign=shows_ttt_feed) - by [@addyosmani](https://twitter.com/addyosmani)
+* [ES6 Learning](https://github.com/ericdouglas/ES6-Learning) - by ericdouglas
 * [JS Promises Playground](http://bevacqua.github.io/promisees) - by bevacqua
 * [You Don't Need Jquery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
