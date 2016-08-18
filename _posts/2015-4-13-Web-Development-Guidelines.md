@@ -158,6 +158,7 @@ title: Web Development Guidelines
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Coding in Windows - Setting Up Git & Cmder](http://www.awmoore.com/2015/01/14/coding-in-windows-part-1/)
 * [Git Tips & Tricks](https://github.com/jbranchaud/til#git)
+* [Git Tips](https://github.com/git-tips/tips)
 
 
 ## Docker
