@@ -150,7 +150,7 @@ title: Web Development Guidelines
 #### 2SexyContent
 * [2sxc Snippets & Tricks](https://gist.github.com/jerkovicl/7bc090685103eab9e175)
 
-## Git
+#### Git
 * [Official GitHub Training](https://training.github.com/kit/) - by GitHub
 * [Learn Git](http://schacon.github.io/gitbook/index.html)
 * [Interactive Git Tutorial](http://gitimmersion.com/)
@@ -161,10 +161,13 @@ title: Web Development Guidelines
 * [Git Tips](https://github.com/git-tips/tips)
 
 
-## Docker
+#### Docker
 * [Docker Tools for Visual Studio](https://github.com/Microsoft/DockerToolsDocs) - by Microsoft
 
-## EntityFramework
+#### EntityFramework
 * [Entity Framework Performance and What You Can Do About It](https://www.simple-talk.com/dotnet/.net-tools/entity-framework-performance-and-what-you-can-do-about-it/)
+
+#### SQL
+* [SQL Style Guide](http://www.sqlstyle.guide/)
 
 Compiled by ŠJ & LJ :fire:
