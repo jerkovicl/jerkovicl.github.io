@@ -147,6 +147,7 @@ title: Web Development Guidelines
 * [Electron Quick Start](http://electron.atom.io/docs/tutorial/quick-start/)
 * [Electron Tools & Resources](http://electron.atom.io/community/)
 
+## Other frameworks and libraries
 #### 2SexyContent
 * [2sxc Snippets & Tricks](https://gist.github.com/jerkovicl/7bc090685103eab9e175)
 
