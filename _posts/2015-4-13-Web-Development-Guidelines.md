@@ -104,6 +104,7 @@ title: Web Development Guidelines
 * [Must See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.2dxeg7gyc)
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 * [npm Resources And Tips](https://github.com/sindresorhus/awesome-npm?utm_source=javascriptweekly&utm_medium=email)
+* [List of Public APIs for Development](https://github.com/toddmotto/public-apis/) - by [@toddmotto]( https://twitter.com/toddmotto )
 
 #### Cordova
 * [Tools for Apache Cordova](http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx) - by Microsoft
