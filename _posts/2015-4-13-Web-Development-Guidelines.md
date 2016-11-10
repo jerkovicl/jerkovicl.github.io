@@ -105,6 +105,7 @@ title: Web Development Guidelines
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 * [npm Resources And Tips](https://github.com/sindresorhus/awesome-npm?utm_source=javascriptweekly&utm_medium=email)
 * [List of Public APIs for Development](https://github.com/toddmotto/public-apis/) - by [@toddmotto]( https://twitter.com/toddmotto )
+* [Google Progressive Web Apps](https://webmasters.googleblog.com/2016/11/building-indexable-progressive-web-apps.html)
 
 #### Cordova
 * [Tools for Apache Cordova](http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx) - by Microsoft
